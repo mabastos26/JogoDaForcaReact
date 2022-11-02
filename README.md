@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Diario de Bordo do aplicativo editdo pelo desenvolvedor
+Essa seção tem como ojetivo descrever toda a evolução do aplicativo. A intenção desse app é praticar os conceitos de React implementando um jogo da forca.
+
+data: 02/11/2022: 
+.Criada a estrutura básica do aplicativo utilizando "create-react-app"
+.Criado o repositório git local e vinculado ao repositório remoto "https://github.com/mabastos26/JogoDaForcaReact".
+.Realizado o primeiro commmit do aplicativo.
