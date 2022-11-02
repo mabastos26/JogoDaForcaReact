@@ -69,7 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### Diario de Bordo do aplicativo editdo pelo desenvolvedor
+### Diario de Bordo do aplicativo editado pelo desenvolvedor
 Essa seção tem como ojetivo descrever toda a evolução do aplicativo. A intenção desse app é praticar os conceitos de React implementando um jogo da forca.
 
 data: 02/11/2022: 
